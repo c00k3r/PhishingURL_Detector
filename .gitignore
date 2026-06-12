@@ -9,3 +9,6 @@ build/
 out/
 .idea/
 .vscode/
+*
+!PhishingDetectorGUI.java
+!.gitignore
