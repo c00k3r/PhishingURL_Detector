@@ -1,0 +1,11 @@
+GoT/
+*.mkv
+*.mp4
+*.avi
+
+*.class
+*.jar
+build/
+out/
+.idea/
+.vscode/
