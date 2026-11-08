@@ -1,6 +1,6 @@
 # 🛡️ Phishing URL Detector
 
-A lightweight **Java-based desktop application for detecting potentially malicious and suspicious URLs** using rule-based security analysis.
+A lightweight **Java-based(Java Swing) desktop application for detecting potentially malicious and suspicious URLs** using rule-based security analysis.
 
 The application provides a modern graphical interface where users can enter a URL and receive an immediate risk assessment based on common phishing indicators such as insecure connections, IP-based URLs, and suspicious `@` characters.
 
